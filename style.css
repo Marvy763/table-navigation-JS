@@ -1,0 +1,13 @@
+#my-Table {
+  border-collapse: collapse;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 14px;
+}
+#my-Table td {
+  min-width:20px;
+  text-align: center;
+  border: 1px solid grey;
+  padding: 2px 5px;
+  white-space: nowrap;
+}
+.select { background-color: aqua } /* just for the control, delete this line when commissioning the operation */
